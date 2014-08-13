@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Teespring OEmbed Provider
- * Plugin URI: http://github.com/jarred-sumner/teespring-oembed-provider
+ * Plugin URI: http://teespring.com
  * Description: This lets you embed Teespring campaigns into your Wordpress site.
  * Version: 1.0
  * Author: Jarred Sumner
